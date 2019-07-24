@@ -13,7 +13,7 @@ cd ios && pod install
 ```
 Link native packages
 ```
-react-native link
+cd .. && react-native link
 ```
 
 ## Running the app
